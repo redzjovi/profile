@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Profile",
   description: "Welcome to my profile site",
+  base: '/profile/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
