@@ -26,7 +26,7 @@ I'm Jovi, a software engineer with over 10++ years of experience in developing s
 ### **Lead Backend Engineer** at **[Mister Aladin](https://misteraladin.com)** (Jan 2022 - Oct 2022)
 
 - Led and mentored a team of developers to successfully design, implement, and deliver projects within specified timelines.
-- Oversaw backend architecture and ensured the scalability, performance, and security of web applications.
+- Oversaw backend architecture and ensure the scalability, performance, and security of web applications.
 - Collaborated with cross-functional teams to define project requirements, timelines, and deliverables.
 - Conducted code reviews, provided feedback, and facilitated knowledge sharing to foster team growth and continuous improvement.
 - Implemented best practices for software development, including version control, testing, and deployment processes.
